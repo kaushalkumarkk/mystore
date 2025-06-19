@@ -6,7 +6,7 @@ A functional e-commerce web application where users can browse products, view de
 
 ## Live Demo
 
-_You can host this using Vercel, Netlify, or any static site provider._
+https://mystorehub.netlify.app/
 
 ---
 
