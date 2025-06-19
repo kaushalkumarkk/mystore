@@ -121,6 +121,7 @@ src/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/kaushalkumarkk/mystore.git
+cd mystore
 
 
 # 2. Install dependencies
